@@ -1,0 +1,14 @@
+{
+  "pins" : [
+    {
+      "identity" : "toaster",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/ryohey/Toaster",
+      "state" : {
+        "revision" : "2af1eddb15be1e7aa135b3ae4afbd13707eacfb2",
+        "version" : "0.0.1"
+      }
+    }
+  ],
+  "version" : 2
+}
